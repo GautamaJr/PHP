@@ -1,12 +1,25 @@
-<h1 align="center">App Lista Tarefas :desktop_computer:</h1>
+<h1 align="center">App Lista Tarefas :spiral_notepad:</h1>
 
-- 📂 A ideia desta aplicação tem como objetivo criar um aplicativo de controle de tarefas, onde o usuário poderar inserir novas tarefas, alterar e excluir. A aplicação mostra as tarefas pendentes e todas as tarefas cadastradas, mostrando seu status na descrição, sendo eles, "Realizado" e "Pendente". Ao desmarcar o Checkbox o status da tarefa mudará para "Realizado" automaticamente. 
+- 📂 A ideia desta aplicação tem como objetivo criar um aplicativo de controle de tarefas, onde o usuário poderá inserir novas tarefas, alterar e excluir. A aplicação mostra as tarefas pendentes e todas as tarefas já cadastradas, mostrando seu status na descrição, sendo eles, "Realizado" e "Pendente". Ao desmarcar o Checkbox o status da tarefa mudará para "Realizado" automaticamente. Após a tarefa mudar para o status de "Realizado", ela se torna inativa para alteração.
 
 - ⚠️ As linguagens e recursos utlizados para o desenvolvimento desse projeto foram: HTML, CSS, BOOTSTRAP e PHP.
 
+- :rotating_light: Por boa prática de segurança a pasta "app_lista_tarefas_public" fica dentro do repositório público (htdocs) e a pasta "app_lista_tarefas" fora do repositório público.
+
 - :technologist: Curso realizado: https://www.udemy.com/course/web-completo/
 
-![1](https://github.com/GautamaJr/PHP/assets/109612954/a72b95fc-bb01-4f4f-90bf-0d95e34c4f2c)
-![2](https://github.com/GautamaJr/PHP/assets/109612954/4535b250-3caf-4c42-9d56-ee7cc65a0c71)
-![3](https://github.com/GautamaJr/PHP/assets/109612954/15dd1cdd-3b11-4260-a9ef-3015e0ec77fd)
-![4](https://github.com/GautamaJr/PHP/assets/109612954/eed5e8f5-fa3f-45d6-805f-9e809c9d5716)
+
+- Tela de cadastro de novas tarefas:
+![cap4](https://github.com/GautamaJr/PHP/assets/109612954/239608d6-6e97-4159-8f3b-f3ca4526049b)
+
+- Animação após o cadastro de uma nova tarefa:
+![cap1](https://github.com/GautamaJr/PHP/assets/109612954/078a6067-200b-49dc-90be-3eb4fad33b5e)
+
+- Tela de todas as tarefas cadastradas:
+- Obs: As tarefas com o status de "realizado" ficará com o botão de alteração inativo. 
+![cap2](https://github.com/GautamaJr/PHP/assets/109612954/98ce2f3f-5da7-45fa-a218-b243b519af79)
+
+- Tela de tarefas com o status de pendente:
+![cap3](https://github.com/GautamaJr/PHP/assets/109612954/24bab639-1017-41bc-8a4b-f3e2140f2aae)
+
+
