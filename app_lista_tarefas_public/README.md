@@ -4,7 +4,7 @@
 
 - ⚠️ As linguagens e recursos utlizados para o desenvolvimento desse projeto foram: HTML, CSS, BOOTSTRAP e PHP.
 
-- :rotating_light: Por boa prática de segurança a pasta "app_lista_tarefas_public" fica dentro do repositório público (htdocs) e a pasta "app_lista_tarefas" fora do repositório público.
+- :rotating_light: Para garantir uma boa prática de segurança, adotamos a seguinte estrutura para o armazenamento dos arquivos: a pasta "app_lista_tarefas_public" está localizada dentro do repositório público (htdocs), enquanto a pasta "app_lista_tarefas" encontra-se fora desse repositório, reforçando ainda mais a proteção dos dados sensíveis.
 
 - :technologist: Curso realizado: https://www.udemy.com/course/web-completo/
 
